@@ -3,6 +3,15 @@
 A simple Soroban smart contract that saves and retrieves notes on the Stellar blockchain.
 
 ---
+## CONTRACT ID:
+CDBB6QMMVE644IVXZPQTI5QLF6CYUAQ3EOYBLVVOKKNWWV5D5ZSN73GA
+
+## CONTRACT LINK:
+https://stellar.expert/explorer/testnet/contract/CDBB6QMMVE644IVXZPQTI5QLF6CYUAQ3EOYBLVVOKKNWWV5D5ZSN73GA
+
+![PICTURE](StellarNotes.png)
+
+---
 
 ## Problem
 
